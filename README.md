@@ -120,6 +120,7 @@ The data is stored in **Google Sheets**, enabling the dashboard to update automa
 # 👩‍💻 Author
 
 **Khushbir Kaur Bamrah**
+
 Artificial Intelligence & Data Science Student
 
 ---
